@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thanhvu0895
 - 👀 I’m interested in Backend Nodejs, java, javascript
-- 🌱 I’m currently learning for a job in 
+- 🌱 I’m currently learning for a job in Software Development
 
 - 📫 How to reach me: https://www.linkedin.com/in/thanhvu0895/
 
