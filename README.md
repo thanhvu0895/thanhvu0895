@@ -25,5 +25,4 @@ I am a senior at Kalamazoo College, having worked in E-Commerce and Technical Su
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma)
 
 ### 🤝 Connect with me
-<a href="https://www.linkedin.com/in/thanhvu0895/"><img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Thanh Vu | LinkedIn" width="21px"/></a>
-</br> : [https://www.linkedin.com/in/thanhvu0895/](https://www.linkedin.com/in/thanhvu0895/)
+<a href="https://www.linkedin.com/in/thanhvu0895/"><img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Thanh Vu | LinkedIn" width="21px"/></a>: [https://www.linkedin.com/in/thanhvu0895/](https://www.linkedin.com/in/thanhvu0895/)
