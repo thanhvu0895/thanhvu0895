@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @thanhvu0895
-- 👀 I’m interested in Backend Nodejs, java, javascript
-- 🌱 I’m currently learning for a job in Software Development
+## 👋 Hi, I'm Thanh Vu
+I am a senior at Kalamazoo College, having worked in E-Commerce and Technical Support industry. I'm a big fan of backend development and database management.
 
-- 📫 How to reach me: https://www.linkedin.com/in/thanhvu0895/
+- 📝 [Instagram](https://www.instagram.com/thanh310895/): Where I post about films and cool technical things.
+- 🌱 I'm learning Analog Photography, Documentary Filming, along with Cloud Technologies like AWS
 
-<!---
-thanhvu0895/thanhvu0895 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Technical Skills
+![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows) 
+![Cent OS](https://img.shields.io/badge/OS-CentOS-002260?style=flat&logo=centos) 
+![Mac OS](https://img.shields.io/badge/OS-macOS-000000?style=flat&logo=macos) 
+
+![Java](https://img.shields.io/badge/Lang-Java-%23ED8B00.svg?style=flat&logo=java) 
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![Go]https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+
+![MySQL](https://img.shields.io/badge/DB-mySQL-%2300f.svg?style=flat&logo=mysql) 
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=flat&logo=sequelize)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma)
+
+### 🤝 Connect with me
+<a href="https://www.linkedin.com/in/thanhvu0895/"><img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Thanh Vu | LinkedIn" width="21px"/></a>
+</br>
+
