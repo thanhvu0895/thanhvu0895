@@ -26,5 +26,4 @@ I am a senior at Kalamazoo College, having worked in E-Commerce and Technical Su
 
 ### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/thanhvu0895/"><img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Thanh Vu | LinkedIn" width="21px"/></a>
-</br>
-
+</br> : [https://www.linkedin.com/in/thanhvu0895/](https://www.linkedin.com/in/thanhvu0895/)
