@@ -13,7 +13,7 @@ I am a senior at Kalamazoo College, having worked in E-Commerce and Technical Su
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
 
 ![MySQL](https://img.shields.io/badge/DB-mySQL-%2300f.svg?style=flat&logo=mysql) 
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=flat&logo=sequelize)
