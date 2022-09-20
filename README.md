@@ -6,9 +6,10 @@ I am a senior at Kalamazoo College, having worked in E-Commerce and Technical Su
 
 ### Technical Skills
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 ![Cent OS](https://img.shields.io/badge/OS-CentOS-002260?style=flat&logo=centos) 
 ![Mac OS](https://img.shields.io/badge/OS-macOS-000000?style=flat&logo=macos) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+
 
 ![Java](https://img.shields.io/badge/Lang-Java-%23ED8B00.svg?style=flat&logo=java) 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
