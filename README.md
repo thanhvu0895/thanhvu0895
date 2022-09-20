@@ -16,6 +16,9 @@ I am a senior at Kalamazoo College, having worked in E-Commerce and Technical Su
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
 
 ![MySQL](https://img.shields.io/badge/DB-mySQL-%2300f.svg?style=flat&logo=mysql) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle)
+![Elastic_Search](https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch)
+
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=flat&logo=sequelize)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma)
 
