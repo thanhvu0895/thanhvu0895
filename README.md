@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Thanh Vu
+## 👋 Hi, I'm Tyler (Thanh) Vu
 I am a senior at Kalamazoo College, having worked in E-Commerce and Technical Support industry. I'm a big fan of backend development and database management.
 
 - 📝 [Instagram](https://www.instagram.com/thanh310895/): Where I post about films and cool technical things.
